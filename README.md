@@ -6,7 +6,7 @@
 - 📫 How to reach me **codechusetts@gmail.com**
 
 
-<h2 align="left">Favorite Tech</h2>
+<h2 align="left">🧰 My toolbox</h2>
 
 > Tools, languages, and other things that I like to work with.
 
