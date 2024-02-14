@@ -1,5 +1,3 @@
-### About me
-
 <h1 align="left">Hello 👋, I'm a developer who brings ideas 4 life.</h1>
 <h3 align="left">I am an IT educator. I taught my mom how to use FaceTime.</h3>
 
