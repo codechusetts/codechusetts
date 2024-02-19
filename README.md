@@ -53,3 +53,12 @@
     </td>    
   </tr>
 </table>
+
+<h2 align="left">🖋️ My blog</h2>
+
+> Tools, languages, and other things that I want to share with.
+<p> Check out 
+  <a href = "https://codechusetts.github.io/" target="_black" rel="noreferrer noopener">insights
+    </a>
+</p>
+
